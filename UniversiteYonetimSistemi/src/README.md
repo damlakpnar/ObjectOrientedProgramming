@@ -16,4 +16,4 @@ Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
  Üniversite Yönetim Sistemi Sınıf Diyagramı
 ----------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/fceefbf8-aec3-4e71-95ab-85b64c1b5a64)
+![image]("C:\Users\damla\Downloads\Untitled.png")
